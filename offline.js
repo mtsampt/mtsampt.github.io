@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1551926477,
+	"version": 1551936008,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -41,6 +41,7 @@
 		"images/rpg-sheet0.png",
 		"images/shell-sheet0.png",
 		"images/sprite9-sheet0.png",
+		"images/particles.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
@@ -51,6 +52,7 @@
 		"burbank_big_condensed_black-webfont.svg",
 		"burbank_big_condensed_black-webfont.ttf",
 		"burbank_big_condensed_black-webfont.woff",
-		"fortnitefont.css"
+		"fortnitefont.css",
+		"penumbra.png"
 	]
 }
