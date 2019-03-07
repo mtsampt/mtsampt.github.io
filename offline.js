@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1551850211,
+	"version": 1551926477,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -40,6 +40,7 @@
 		"images/legendarypump-sheet0.png",
 		"images/rpg-sheet0.png",
 		"images/shell-sheet0.png",
+		"images/sprite9-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
